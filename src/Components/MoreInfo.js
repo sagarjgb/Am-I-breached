@@ -43,7 +43,7 @@ export default function MoreInfo() {
                   If, Yes!💀
                   <br />{" "}
                 </span>
-                Then he knows <strong>your screte.</strong>
+                Then he know <strong>your secrete.</strong>
               </p>
             </Col>
             <Col>
